@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋   
+
+🌱 I’m currently a General Assembly Software Engineer student!
+
+📫 :
+[Email me here](mailto:roebrtbalonek@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+
+
+ :octocat: 
+
 
 <!--
 **rbalonek/rbalonek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
