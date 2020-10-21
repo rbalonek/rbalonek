@@ -18,9 +18,6 @@ Here are my major projects:
 [opera-singer-search](https://opera-singer-search.netlify.app/operas) - [repo](https://github.com/rbalonek/opera-singer-search)  <br />
 [Trinity-Place-Shelter](https://trinity-place-shelter.netlify.app/) - [repo](https://github.com/rbalonek/trinity-place-shelter)  <br />
 
-# Vanilla javascript Project
-[Make-Me-A-Drink!](https://rbalonek.github.io/cocktail-helper/) - [repo](https://github.com/rbalonek/cocktail-helper)  <br />
-
 # Full Stack Projects
 [opera-singer-search](https://opera-singer-search.netlify.app/operas) - [repo](https://github.com/rbalonek/opera-singer-search)  <br />
 [Trinity-Place-Shelter](https://trinity-place-shelter.netlify.app/) - [repo](https://github.com/rbalonek/trinity-place-shelter)  <br />
@@ -29,7 +26,12 @@ Here are my major projects:
 
 [Trinity-Place-Shelter](https://trinity-place-shelter.netlify.app/) - [repo](https://github.com/rbalonek/trinity-place-shelter)  <br />
 
-# Ruby on Rails with React Frontend Project
+# Ruby on Rails backend with React Frontend Project
 [opera-singer-search](https://opera-singer-search.netlify.app/operas) - [repo](https://github.com/rbalonek/opera-singer-search)  <br />
+
+# Vanilla javascript Project
+[Make-Me-A-Drink!](https://rbalonek.github.io/cocktail-helper/) - [repo](https://github.com/rbalonek/cocktail-helper)  <br />
+
+
 
 
