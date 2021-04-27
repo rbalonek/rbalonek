@@ -29,6 +29,7 @@ Here are my major projects:
 # MERN Project
 
 [Trinity-Place-Shelter](https://trinity-place-shelter.netlify.app/) - [repo](https://github.com/rbalonek/trinity-place-shelter)  <br />
+[MERN Bootstrap Project](https://mern-bootstrap-portfolio.netlify.app/) - [repo](https://github.com/rbalonek/mern-bootstrap-project) <br />
 
 # Ruby on Rails backend with React Frontend Project
 [opera-singer-search](https://opera-singer-search.netlify.app/operas) - [repo](https://github.com/rbalonek/opera-singer-search)  <br />
