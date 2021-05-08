@@ -37,6 +37,21 @@ Here are my major projects:
 # Vanilla javascript Project
 [Make-Me-A-Drink!](https://rbalonek.github.io/cocktail-helper/) - [repo](https://github.com/rbalonek/cocktail-helper)  <br />
 
+# Squarespace Project
+[This is Cherry](https://www.thisischerry.com/)
 
+# Wix Projects
+[Real Estate Site](https://editor.wix.com/html/editor/web/renderer/external_preview/document/34420488-5225-4758-bf8e-b7ff04df875f/sales?metaSiteId=962a4a1b-0f1d-40ab-80aa-d6c91f5ade49)
 
+[Opera Singer Website](https://robertbalonek.wixsite.com/robertbalonek)
+
+[Another Real Estate Site](https://editor.wix.com/html/editor/web/renderer/external_preview/document/1803c882-7e75-4412-a732-083e2e89556c?metaSiteId=2c898d4d-d5e5-4d56-925a-9ddba2da5e45)
+
+[NYC Apartment Rental Site](https://editor.wix.com/html/editor/web/renderer/external_preview/document/12ec47ff-e66f-c81c-e470-861ef57eb1fd?metaSiteId=12ec47ff-e9fe-680f-59b9-ca78fee02c6a)
+
+[Actor Website](https://editor.wix.com/html/editor/web/renderer/external_preview/document/12ed9afa-3377-45d5-9c77-043f8e8c9538?metaSiteId=12ed9afa-42bd-797b-6d7e-1ca0e81e39b0)
+
+[Professional Driver Website](https://editor.wix.com/html/editor/web/renderer/external_preview/document/b4479f93-0231-4d01-93c9-e52cb777ac76?metaSiteId=5f0b687d-b5c7-4660-97c4-b9b7430fe9d1)
+
+[eCommerce store Sample](https://editor.wix.com/html/editor/web/renderer/external_preview/document/fde71b1a-6147-4446-961c-86f16cc8c208?metaSiteId=d5301a34-7eb5-4eb7-a4b7-96746bfad027)
 
