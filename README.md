@@ -33,6 +33,7 @@ Here are my major projects:
 
 # Ruby on Rails backend with React Frontend Project
 [opera-singer-search](https://opera-singer-search.netlify.app/operas) - [repo](https://github.com/rbalonek/opera-singer-search)  <br />
+[rails-auth-login](https://rails-auth-boilerplate.netlify.app/) - [repo](https://github.com/rbalonek/Rails-Auth-Boilerplate)
 
 # Vanilla javascript Project
 [Make-Me-A-Drink!](https://rbalonek.github.io/cocktail-helper/) - [repo](https://github.com/rbalonek/cocktail-helper)  <br />
