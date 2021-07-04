@@ -25,6 +25,10 @@ Here are my major projects:
 # Full Stack Projects
 [opera-singer-search](https://opera-singer-search.netlify.app/operas) - [repo](https://github.com/rbalonek/opera-singer-search)  <br />
 [Trinity-Place-Shelter](https://trinity-place-shelter.netlify.app/) - [repo](https://github.com/rbalonek/trinity-place-shelter)  <br />
+[MERN Bootstrap Project](https://mern-bootstrap-portfolio.netlify.app/) - [repo](https://github.com/rbalonek/mern-bootstrap-project) <br />
+[rails-ninja](https://rails-ninja.netlify.app/) = [repo](https://github.com/rbalonek/rails-ninja-dojo)<br />
+[rails-auth-login](https://rails-auth-boilerplate.netlify.app/) - [repo](https://github.com/rbalonek/Rails-Auth-Boilerplate) <br />
+[This is Cherry](https://www.thisischerry.com/) <br />
 
 # MERN Project
 
