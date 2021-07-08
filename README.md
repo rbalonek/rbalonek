@@ -28,7 +28,7 @@ Here are my major projects:
 [MERN Bootstrap Project](https://mern-bootstrap-portfolio.netlify.app/) - [repo](https://github.com/rbalonek/mern-bootstrap-project) <br />
 [rails-ninja](https://rails-ninja.netlify.app/) - [repo](https://github.com/rbalonek/rails-ninja-dojo)<br />
 [rails-auth-login](https://rails-auth-boilerplate.netlify.app/) - [repo](https://github.com/rbalonek/Rails-Auth-Boilerplate) <br />
-[table-seservation](https://reserve-table.netlify.app/) - [repo](https://github.com/rbalonek/reserve-table-app) <br />
+[table-reservation](https://reserve-table.netlify.app/) - [repo](https://github.com/rbalonek/reserve-table-app) <br />
 [This is Cherry](https://www.thisischerry.com/) <br />
 
 # MERN Project
@@ -38,7 +38,9 @@ Here are my major projects:
 
 # Ruby on Rails backend with React Frontend Project
 [opera-singer-search](https://opera-singer-search.netlify.app/operas) - [repo](https://github.com/rbalonek/opera-singer-search)  <br />
-[rails-auth-login](https://rails-auth-boilerplate.netlify.app/) - [repo](https://github.com/rbalonek/Rails-Auth-Boilerplate)
+[rails-auth-login](https://rails-auth-boilerplate.netlify.app/) - [repo](https://github.com/rbalonek/Rails-Auth-Boilerplate) <br />
+[rails-ninja](https://rails-ninja.netlify.app/) - [repo](https://github.com/rbalonek/rails-ninja-dojo)<br />
+[rails-auth-login](https://rails-auth-boilerplate.netlify.app/) - [repo](https://github.com/rbalonek/Rails-Auth-Boilerplate) <br />
 
 # Vanilla javascript Project
 [Make-Me-A-Drink!](https://rbalonek.github.io/cocktail-helper/) - [repo](https://github.com/rbalonek/cocktail-helper)  <br />
