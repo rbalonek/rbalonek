@@ -49,6 +49,9 @@ Here are my major projects:
 [This is Cherry](https://www.thisischerry.com/)
 
 # Wix Projects
+
+[Leading Out The Woods Author Website](https://www.leadingoutthewoods.com/)
+
 [Real Estate Site](https://editor.wix.com/html/editor/web/renderer/external_preview/document/34420488-5225-4758-bf8e-b7ff04df875f/sales?metaSiteId=962a4a1b-0f1d-40ab-80aa-d6c91f5ade49)
 
 [Opera Singer Website](https://robertbalonek.wixsite.com/robertbalonek)
