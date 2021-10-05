@@ -30,6 +30,8 @@ Here are my major projects:
 [rails-auth-login](https://rails-auth-boilerplate.netlify.app/) - [repo](https://github.com/rbalonek/Rails-Auth-Boilerplate) <br />
 [table-reservation](https://reserve-table.netlify.app/) - [repo](https://github.com/rbalonek/reserve-table-app) <br />
 [This is Cherry](https://www.thisischerry.com/) <br />
+[Vendor Signup Form](https://signup-template.netlify.app/) -[repo](https://github.com/rbalonek/Signup_Template)<br/>
+[React form to google sheet form](https://react-google-sheet-form.netlify.app/) -[repo](https://github.com/rbalonek/google-sheets-react-form)<br/>
 
 # MERN Project
 
@@ -41,7 +43,7 @@ Here are my major projects:
 [rails-auth-login](https://rails-auth-boilerplate.netlify.app/) - [repo](https://github.com/rbalonek/Rails-Auth-Boilerplate) <br />
 [rails-ninja](https://rails-ninja.netlify.app/) - [repo](https://github.com/rbalonek/rails-ninja-dojo)<br />
 [rails-auth-login](https://rails-auth-boilerplate.netlify.app/) - [repo](https://github.com/rbalonek/Rails-Auth-Boilerplate) <br />
-
+[Vendor Signup Form](https://signup-template.netlify.app/) -[repo](https://github.com/rbalonek/Signup_Template)<br/>
 # Vanilla javascript Project
 [Make-Me-A-Drink!](https://rbalonek.github.io/cocktail-helper/) - [repo](https://github.com/rbalonek/cocktail-helper)  <br />
 
@@ -52,11 +54,9 @@ Here are my major projects:
 
 [Leading Out The Woods Author Website](https://www.leadingoutthewoods.com/)
 
-[Real Estate Site](https://editor.wix.com/html/editor/web/renderer/external_preview/document/34420488-5225-4758-bf8e-b7ff04df875f/sales?metaSiteId=962a4a1b-0f1d-40ab-80aa-d6c91f5ade49)
-
 [Opera Singer Website](https://robertbalonek.wixsite.com/robertbalonek)
 
-[Another Real Estate Site](https://editor.wix.com/html/editor/web/renderer/external_preview/document/1803c882-7e75-4412-a732-083e2e89556c?metaSiteId=2c898d4d-d5e5-4d56-925a-9ddba2da5e45)
+[Real Estate Site](https://editor.wix.com/html/editor/web/renderer/external_preview/document/1803c882-7e75-4412-a732-083e2e89556c?metaSiteId=2c898d4d-d5e5-4d56-925a-9ddba2da5e45)
 
 [NYC Apartment Rental Site](https://editor.wix.com/html/editor/web/renderer/external_preview/document/12ec47ff-e66f-c81c-e470-861ef57eb1fd?metaSiteId=12ec47ff-e9fe-680f-59b9-ca78fee02c6a)
 
