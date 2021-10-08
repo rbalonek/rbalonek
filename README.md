@@ -13,7 +13,7 @@ Here are my major projects:
 
 # React.js Projects
 [My Portfolio](https://www.robertbalonek.dev) - [repo](https://github.com/rbalonek/Portfolio) <br />
-[RobertBalonek.com](https://www.robertbalonek.com) (clone of my Wix opera website) - [repo](https://github.com/rbalonek/rbopera)  <br />
+[RobertBalonek.com](https://www.robertbalonek.com) (clone and improvements of my Wix opera website) - [repo](https://github.com/rbalonek/new-opera-site)  <br />
 [restaurant-app](https://balonek-restaurant-app.netlify.app/LiveMenu) - [repo](https://github.com/rbalonek/Restaurant-App)  <br />
 [opera-singer-search](https://opera-singer-search.netlify.app/operas) - [repo](https://github.com/rbalonek/opera-singer-search)  <br />
 [Trinity-Place-Shelter](https://trinity-place-shelter.netlify.app/) - [repo](https://github.com/rbalonek/trinity-place-shelter)  <br />
