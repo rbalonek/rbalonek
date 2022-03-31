@@ -18,7 +18,7 @@ Here are my major projects:
 [opera-singer-search](https://opera-singer-search.netlify.app/operas) - [repo](https://github.com/rbalonek/opera-singer-search)  <br />
 [Trinity-Place-Shelter](https://trinity-place-shelter.netlify.app/) - [repo](https://github.com/rbalonek/trinity-place-shelter)  <br />
 
-# React-Native Projects
+# React-Native Projects in App Store
 [Happy Place App](https://github.com/rbalonek/react-nav-app) <br />
 [News App](https://github.com/rbalonek/react-native-news-app) <br />
 
