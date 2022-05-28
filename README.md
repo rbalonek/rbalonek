@@ -19,7 +19,8 @@ Here are my major projects:
 [Trinity-Place-Shelter](https://trinity-place-shelter.netlify.app/) - [repo](https://github.com/rbalonek/trinity-place-shelter)  <br />
 
 # React-Native Projects in App Store
-[Happy Place App](https://github.com/rbalonek/react-nav-app) <br />
+[Happy Place App](https://apps.apple.com/us/app/happy-space/id1544516931) <br />
+[One Handy Picture](https://apps.apple.com/us/app/one-handy-picture/id1592847707) <br />
 [News App](https://github.com/rbalonek/react-native-news-app) <br />
 
 # Full Stack Projects
