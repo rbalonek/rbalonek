@@ -49,7 +49,7 @@ Here are my major projects:
 [Make-Me-A-Drink!](https://rbalonek.github.io/cocktail-helper/) - [repo](https://github.com/rbalonek/cocktail-helper)  <br />
 
 # Squarespace Project
-[This is Cherry](https://www.thisischerry.com/)
+[This is Cherry](https://cherry-site.netlify.app/)
 
 # Wix Projects
 
