@@ -12,7 +12,7 @@ With 15 years experience in marketing, team leading, and project driven work in 
 Here are my major projects:
 
 # React.js Projects
-[My Portfolio](https://www.robertbalonek.dev) - [repo](https://github.com/rbalonek/Portfolio_Website) <br />
+[My Portfolio](https://www.robertbalonek.dev) - [repo](https://github.com/rbalonek/dev_portfolio) <br />
 [RobertBalonek.com](https://www.robertbalonek.com) (clone and improvements of my Wix opera website) - [repo](https://github.com/rbalonek/new-opera-site)  <br />
 [restaurant-app](https://balonek-restaurant-app.netlify.app/LiveMenu) - [repo](https://github.com/rbalonek/Restaurant-App)  <br />
 [opera-singer-search](https://opera-singer-search.netlify.app/operas) - [repo](https://github.com/rbalonek/opera-singer-search)  <br />
@@ -50,9 +50,11 @@ Here are my major projects:
 
 # Squarespace Project
 [This is Cherry](https://cherry-site.netlify.app/)
+[Opera On The James](https://www.operaonthejames.org/)
 
 # Wix Projects
-
+[Association of Certified Bin Operators (ACBO)](https://www.bincertified.org/)
+[Find A Bin Website](https://www.findabin.com/)
 [Leading Out The Woods Author Website](https://www.leadingoutthewoods.com/)
 
 [Opera Singer Website](https://robertbalonek.wixsite.com/robertbalonek)
