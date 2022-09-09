@@ -30,7 +30,7 @@ Here are my major projects:
 [rails-ninja](https://rails-ninja.netlify.app/) - [repo](https://github.com/rbalonek/rails-ninja-dojo)<br />
 [rails-auth-login](https://rails-auth-boilerplate.netlify.app/) - [repo](https://github.com/rbalonek/Rails-Auth-Boilerplate) <br />
 [table-reservation](https://reserve-table.netlify.app/) - [repo](https://github.com/rbalonek/reserve-table-app) <br />
-[This is Cherry](https://www.thisischerry.com/) <br />
+[This is Cherry](https://cherry-site.netlify.app/) <br />
 [Vendor Signup Form](https://signup-template.netlify.app/) -[repo](https://github.com/rbalonek/Signup_Template)<br/>
 [React form to google sheet form](https://react-google-sheet-form.netlify.app/) -[repo](https://github.com/rbalonek/google-sheets-react-form)<br/>
 
