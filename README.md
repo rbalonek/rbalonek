@@ -49,12 +49,12 @@ Here are my major projects:
 [Make-Me-A-Drink!](https://rbalonek.github.io/cocktail-helper/) - [repo](https://github.com/rbalonek/cocktail-helper)  <br />
 
 # Squarespace Project
-[This is Cherry](https://cherry-site.netlify.app/)
+[This is Cherry](https://cherry-site.netlify.app/) <br />
 [Opera On The James](https://www.operaonthejames.org/)
 
 # Wix Projects
-[Association of Certified Bin Operators (ACBO)](https://www.bincertified.org/)
-[Find A Bin Website](https://www.findabin.com/)
+[Association of Certified Bin Operators (ACBO)](https://www.bincertified.org/) <br />
+[Find A Bin Website](https://www.findabin.com/) <br />
 [Leading Out The Woods Author Website](https://www.leadingoutthewoods.com/)
 
 [Opera Singer Website](https://robertbalonek.wixsite.com/robertbalonek)
