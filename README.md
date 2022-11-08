@@ -56,8 +56,11 @@ Here are my major projects:
 
 # Wix Projects
 [Association of Certified Bin Operators (ACBO)](https://www.bincertified.org/) <br />
+
 [Find A Bin Website](https://www.findabin.com/) <br />
+
 [Meet Hilton](https://www.meet-hilton.com/)<br />
+
 [Leading Out The Woods Author Website](https://www.leadingoutthewoods.com/)
 
 [Opera Singer Website](https://robertbalonek.wixsite.com/robertbalonek)
