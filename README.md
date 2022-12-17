@@ -19,7 +19,7 @@ Here are my major projects:
 [restaurant-app](https://balonek-restaurant-app.netlify.app/LiveMenu) - [repo](https://github.com/rbalonek/Restaurant-App)  <br />
 [opera-singer-search](https://opera-singer-search.netlify.app/operas) - [repo](https://github.com/rbalonek/opera-singer-search)  <br />
 [Trinity-Place-Shelter](https://trinity-place-shelter.netlify.app/) - [repo](https://github.com/rbalonek/trinity-place-shelter)  <br />
-[lead-funnel-mern-template](https://trinity-place-shelter.netlify.app/) - [repo]([https://github.com/rbalonek/trinity-place-shelter](https://mern-funnel-template.netlify.app/))  <br />
+[lead-funnel-mern-template](https://mern-funnel-template.netlify.app/) - [repo]([https://github.com/rbalonek/lead-funnel-mern-template])  <br />
 
 # React-Native Projects in App Store
 [Happy Place App](https://apps.apple.com/us/app/happy-space/id1544516931) <br />
