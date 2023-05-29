@@ -30,9 +30,6 @@ Here are my major projects:
 [opera-singer-search](https://opera-singer-search.netlify.app/operas) - [repo](https://github.com/rbalonek/opera-singer-search)  <br />
 [Trinity-Place-Shelter](https://trinity-place-shelter.netlify.app/) - [repo](https://github.com/rbalonek/trinity-place-shelter)  <br />
 [MERN Bootstrap Project](https://mern-bootstrap-portfolio.netlify.app/) - [repo](https://github.com/rbalonek/mern-bootstrap-project) <br />
-[rails-ninja](https://rails-ninja.netlify.app/) - [repo](https://github.com/rbalonek/rails-ninja-dojo)<br />
-[rails-auth-login](https://rails-auth-boilerplate.netlify.app/) - [repo](https://github.com/rbalonek/Rails-Auth-Boilerplate) <br />
-[table-reservation](https://reserve-table.netlify.app/) - [repo](https://github.com/rbalonek/reserve-table-app) <br />
 [This is Cherry](https://cherry-site.netlify.app/) <br />
 [Vendor Signup Form](https://signup-template.netlify.app/) -[repo](https://github.com/rbalonek/Signup_Template)<br/>
 [React form to google sheet form](https://react-google-sheet-form.netlify.app/) -[repo](https://github.com/rbalonek/google-sheets-react-form)<br/>
@@ -44,9 +41,6 @@ Here are my major projects:
 
 # Ruby on Rails backend with React Frontend Project
 [opera-singer-search](https://opera-singer-search.netlify.app/operas) - [repo](https://github.com/rbalonek/opera-singer-search)  <br />
-[rails-auth-login](https://rails-auth-boilerplate.netlify.app/) - [repo](https://github.com/rbalonek/Rails-Auth-Boilerplate) <br />
-[rails-ninja](https://rails-ninja.netlify.app/) - [repo](https://github.com/rbalonek/rails-ninja-dojo)<br />
-[rails-auth-login](https://rails-auth-boilerplate.netlify.app/) - [repo](https://github.com/rbalonek/Rails-Auth-Boilerplate) <br />
 [Vendor Signup Form](https://signup-template.netlify.app/) -[repo](https://github.com/rbalonek/Signup_Template)<br/>
 # Vanilla javascript Project
 [Make-Me-A-Drink!](https://rbalonek.github.io/cocktail-helper/) - [repo](https://github.com/rbalonek/cocktail-helper)  <br />
