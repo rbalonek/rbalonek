@@ -7,19 +7,58 @@ With 15 years experience in marketing, team leading, and project driven work in 
 
 
 📫 
-[Email me here](mailto:roebrtbalonek@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)   :octocat: 
+[Email me here](mailto:roebrtbalonek@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)   :octocat: <br /><br />
+<img src="https://res.cloudinary.com/bobalobbadingdong/image/upload/v1686591616/Portfolio%20Pics/Digital_Mar_Assoc_800_rizatv.png"  width="150" > 
+<img src="https://res.cloudinary.com/bobalobbadingdong/image/upload/v1662672865/Portfolio%20Pics/Creator_o9nvzl.png"  width="150" > 
+<br />
 
-Here are my major projects:
+
 
 # React.js Projects
-[My Portfolio](https://www.robertbalonek.dev) - [repo](https://github.com/rbalonek/dev_portfolio) <br />
-[RobertBalonek.com](https://www.robertbalonek.com) (clone and improvements of my Wix opera website) - [repo](https://github.com/rbalonek/new-opera-site)  <br />
-[lead-funnel-mern-template](https://mern-funnel-template.netlify.app/) - [repo](https://github.com/rbalonek/lead-funnel-mern-template)  <br />
-[I'll Fix Your Website](https://www.illfixyourwebsite.com/) - [repo](https://github.com/rbalonek/IllFixYourWebsite)  <br />
-[National Repertory Theater](https://www.nationalrepertorytheater.org/) - [repo](https://github.com/rbalonek/national-repertory-theater-website)  <br />
-[restaurant-app](https://balonek-restaurant-app.netlify.app/LiveMenu) - [repo](https://github.com/rbalonek/Restaurant-App)  <br />
-[opera-singer-search](https://opera-singer-search.netlify.app/operas) - [repo](https://github.com/rbalonek/opera-singer-search)  <br />
-[Trinity-Place-Shelter](https://trinity-place-shelter.netlify.app/) - [repo](https://github.com/rbalonek/trinity-place-shelter)  <br />
+[My Portfolio](https://www.robertbalonek.dev) | [Repository](https://github.com/rbalonek/dev_portfolio)  <br/>
+<img src="https://res.cloudinary.com/bobalobbadingdong/image/upload/v1686591260/Portfolio%20Pics/Screenshot_2023-06-12_at_10.33.48_AM_oym8y6.png" width="80%"/>
+<br />
+<br />
+<hr width='400' />
+
+[RobertBalonek.com](https://www.robertbalonek.com) (clone and improvements of my Wix opera website) | [Repository](https://github.com/rbalonek/new-opera-site)
+<br/> 
+<img src="https://res.cloudinary.com/bobalobbadingdong/image/upload/v1686591780/Portfolio%20Pics/Screenshot_2023-06-12_at_10.42.36_AM_a5mn2v.png"  width="80%"> 
+<hr width='400' />
+<br /><br />
+[Lead Funnel MERN Template](https://mern-funnel-template.netlify.app) | [Repository](https://github.com/rbalonek/lead-funnel-mern-template)  <br />
+<img src="https://res.cloudinary.com/bobalobbadingdong/image/upload/v1686592026/Portfolio%20Pics/Screenshot_2023-06-12_at_10.46.42_AM_zsjxtt.png" idth="400" >  
+<br /><br />
+
+[I'll Fix Your Website](https://www.illfixyourwebsite.com) | [Repository](https://github.com/rbalonek/IllFixYourWebsite)  <br />
+<img src="https://res.cloudinary.com/bobalobbadingdong/image/upload/v1662863587/Portfolio%20Pics/illfixyourwebsite_yu0yft.png" width="80%" >  
+<br /><br /> 
+<hr width='400' />
+
+[National Repertory Theater 501C3](https://www.nationalrepertorytheater.org/) | [Repository](https://github.com/rbalonek/national-repertory-theater-website)
+<br />
+<img src="https://res.cloudinary.com/bobalobbadingdong/image/upload/v1686592158/Portfolio%20Pics/Screenshot_2023-06-12_at_10.48.55_AM_okrbxr.png" width='80%'/> 
+<hr width='400' /> 
+
+<br /><br />
+
+[Restaurant App](https://balonek-restaurant-app.netlify.app/LiveMenu) | [Repository](https://github.com/rbalonek/Restaurant-App)  <br />
+<img src="https://res.cloudinary.com/bobalobbadingdong/image/upload/v1686592641/Portfolio%20Pics/CellPhonePreview1_stuvob_bz5sla.png" width="200" >  
+<br />
+<hr width='400' /> 
+<br />
+
+[Opera Singer Search Prototype](https://opera-singer-search.netlify.app/operas) | [Repository](https://github.com/rbalonek/opera-singer-search)  <br />
+<img src="https://res.cloudinary.com/bobalobbadingdong/image/upload/v1600955664/Portfolio%20Pics/singer-search-cell-Operas_dzgw31.png" width="200" >
+<img src="https://res.cloudinary.com/bobalobbadingdong/image/upload/v1600955664/Portfolio%20Pics/singer-search-cell-Singers-page_etlfsz.png" width="200" >
+<br />
+<hr width='400' /> 
+<br />
+
+[Trinity Placev Shelter](https://trinity-place-shelter.netlify.app/) | [Repository](https://github.com/rbalonek/trinity-place-shelter)  <br />
+<img src="https://res.cloudinary.com/bobalobbadingdong/image/upload/v1599500206/Portfolio%20Pics/Trinity-cell-2_gx7ytc.png" width="200" > 
+<img src="https://res.cloudinary.com/bobalobbadingdong/image/upload/v1598326354/Portfolio%20Pics/trinityPlaceShelter_srxffl.png" width="400" > 
+<br /><br />
 
 
 # React-Native Projects in App Store
