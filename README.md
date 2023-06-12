@@ -63,7 +63,7 @@ With 15 years experience in marketing, team leading, and project driven work in 
 
 
 # React-Native Projects in App Store
-[Happy Place App](https://apps.apple.com/us/app/happy-space/id1544516931) <br />
+[Happy Space App](https://apps.apple.com/us/app/happy-space/id1544516931) <br />
 <img src="https://res.cloudinary.com/bobalobbadingdong/image/upload/v1612209964/Portfolio%20Pics/Happy-space/HappySpaceAppStore_ebbyfl.jpg" width="300" > 
 <br /><br />
 [One Handy Picture](https://apps.apple.com/us/app/one-handy-picture/id1592847707) <br />
