@@ -8,6 +8,7 @@ With 15 years experience in marketing, team leading, and project driven work in 
 
 📫 
 [Email me here](mailto:roebrtbalonek@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)   :octocat: <br /><br />
+<img src="https://res.cloudinary.com/bobalobbadingdong/image/upload/v1690169182/EN_creator_large_wf60bj.png"  width="150" > 
 <img src="https://res.cloudinary.com/bobalobbadingdong/image/upload/v1686591616/Portfolio%20Pics/Digital_Mar_Assoc_800_rizatv.png"  width="150" > 
 <img src="https://res.cloudinary.com/bobalobbadingdong/image/upload/v1662672865/Portfolio%20Pics/Creator_o9nvzl.png"  width="150" > 
 <br />
