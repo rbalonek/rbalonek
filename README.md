@@ -1,8 +1,12 @@
-### Hi there 👋   
+### Hi, I'm Bob!  👋   
 
-🌱 I’m a General Assembly Software Engineer graduate and currently seeking emploment!
+A Software Engineer with a focus on digital marketing.
 
-With 15 years experience in marketing, team leading, and project driven work in 7 different industries, the variety in my career development has given me the opportunity to see multiple perspectives when building apps and copmpleting projects. Having been in awe of the technological advances of my lifetime, I am excited to create new innovative approaches to improve the quality of life for everyone.
+For 15 years, I've built ads, websites, and sales funnels for myself, clients, and digital marketing agencies. From real estate and event leads to dental office clients and eCommerce sales.
+
+For the last five years, I've specialized in Pixel / tracking installation and troubleshooting connections with 3rd party vendors. I've also had success with audience building through psychology of the customer avatar(s) and the product / services being advertised.
+
+I now freelance consult in most aspects of the digital marketing world, web design, and developer communities.
 
 
 
@@ -18,6 +22,12 @@ With 15 years experience in marketing, team leading, and project driven work in 
 # React.js Projects
 [My Portfolio](https://www.robertbalonek.dev) | [Repository](https://github.com/rbalonek/dev_portfolio)  <br/>
 <img src="https://res.cloudinary.com/bobalobbadingdong/image/upload/v1686591260/Portfolio%20Pics/Screenshot_2023-06-12_at_10.33.48_AM_oym8y6.png" width="80%"/>
+<br />
+<br />
+<hr width='400' />
+
+[Know Your Processes](https://knowyourprocesses.com/) <br/>
+<img src="https://res.cloudinary.com/bobalobbadingdong/image/upload/v1724702115/Portfolio%20Pics/Mark%20Andersen/KYPs3_iorvk5.png" width="80%"/>
 <br />
 <br />
 <hr width='400' />
