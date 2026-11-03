@@ -1,6 +1,6 @@
 ### Hi, I'm Bob!  👋   
 
-A Software Engineer with a focus on digital marketing.
+A Software Engineer with a focus on digital marketing and Forward Deployment Engineering.
 
 For 15 years, I've built ads, websites, and sales funnels for myself, clients, and digital marketing agencies. From real estate and event leads to dental office clients and eCommerce sales.
 
